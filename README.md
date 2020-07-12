@@ -1,6 +1,6 @@
 # L'Alarme domestique
 
-## Introduction
+## Introduction: 
 Ce projet conciste à reproduire une alarme domestique à l’aide d’une carte Arduino et quelques autres composants. J'ai utilisé les composants suivant:
 * Détecteur de mouvement
 * Ecran LCD I2C
@@ -9,8 +9,10 @@ Ce projet conciste à reproduire une alarme domestique à l’aide d’une carte
 * LED rouge
 
 ## Montage électronique
-Voici le montage électronique du projet:
+Voici le câblage du projet:
 
-<div id="bg"> 
-    <img src="cablage_alarm.JPG" alt=""> 
-</div> 
+![](cablage_alarme.JPG)
+
+## Structure du projet
+
+
