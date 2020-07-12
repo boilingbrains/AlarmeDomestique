@@ -1,4 +1,4 @@
-# L'Alarme domestique
+# __L'Alarme domestique__
 
 ## Introduction: 
 Ce projet conciste à reproduire une alarme domestique à l’aide d’une carte Arduino et quelques autres composants. J'ai utilisé les composants suivant:
