@@ -14,10 +14,17 @@ Voici le câblage du projet:
 ![](cablage_alarme.JPG)
 
 ## Structure du projet
-📦Projet
-+--📂client
- 📂node_modules
- 📂server
- 📜index.js
- 📜.gitignore
- 📜package.json
+```
+📦project
+│   📜alarme_domestique.ino 
+│   📜README.md
+│   📜cablage.JPG   
+└───📂bilbiotheques_alarme_domestique
+    │
+    └───📂Keypad
+    │   │  ...
+    └───📂LiquidCrystal_I2C
+    │   │  ...
+    └───📂Password
+        │  ...
+
