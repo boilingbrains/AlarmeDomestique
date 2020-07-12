@@ -14,5 +14,10 @@ Voici le câblage du projet:
 ![](cablage_alarme.JPG)
 
 ## Structure du projet
-
-
+📦Projet
++--📂client
+ 📂node_modules
+ 📂server
+ 📜index.js
+ 📜.gitignore
+ 📜package.json
