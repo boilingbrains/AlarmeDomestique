@@ -30,4 +30,10 @@ Voici le câblage du projet:
 ```
 ## Explications:
 
+<span style="display:block;text-align:center">
+
 [![](alarme.gif#center)](https://youtu.be/FlmrZ26s-9A)
+
+</span>
+
+    
