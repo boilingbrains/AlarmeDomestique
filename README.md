@@ -11,7 +11,7 @@ Ce projet conciste à reproduire une alarme domestique à l’aide d’une carte
 ## Montage électronique
 Voici le câblage du projet:
 
-![](cablage_alarme.JPG)
+![](cablage_alarme.JPG#center)
 
 ## Structure du projet
 ```
@@ -30,4 +30,4 @@ Voici le câblage du projet:
 ```
 ## Explications:
 
-[![](alarme.gif)](https://youtu.be/FlmrZ26s-9A)
+[![](alarme.gif#center)](https://youtu.be/FlmrZ26s-9A)
