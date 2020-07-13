@@ -27,6 +27,7 @@ Voici le câblage du projet:
     │   │  ...
     └───📂Password
         │  ...
-
+```
 ## Explications:
 
+[![](alarme.gif)](https://youtu.be/FlmrZ26s-9A)
